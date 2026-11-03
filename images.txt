@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #vllm/vllm-openai:v0.30.0
 #vllm-omni:qwen-image21
-nvidia/cuda:12.6.2-cudnn-runtime-ubuntu24.04
+#nvidia/cuda:12.6.2-cudnn-runtime-ubuntu24.04
+node:20-alpine
